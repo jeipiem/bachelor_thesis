@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 JUN 2017 23:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 JUN 2017 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,34 +329,34 @@ e
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./pinina_bachelor_thesis.toc
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 5.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -366,16 +366,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [2] [3]
 [4]
-Overfull \hbox (20.1706pt too wide) in paragraph at lines 113--134
+Overfull \hbox (20.1706pt too wide) in paragraph at lines 120--141
  [] 
  []
 
 [5] [6] (./pinina_bachelor_thesis.bbl) [7] (./pinina_bachelor_thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 4308 strings out of 493014
- 57154 string characters out of 6133351
- 128161 words of memory out of 5000000
- 7738 multiletter control sequences out of 15000+600000
+ 4309 strings out of 493014
+ 57163 string characters out of 6133351
+ 128164 words of memory out of 5000000
+ 7739 multiletter control sequences out of 15000+600000
  19159 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,11n,32p,1656b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -393,7 +393,7 @@ e/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/
 16/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2016
 /texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on pinina_bachelor_thesis.pdf (7 pages, 147906 bytes).
+Output written on pinina_bachelor_thesis.pdf (7 pages, 153692 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
