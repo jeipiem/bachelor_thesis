@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 JUN 2017 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 JUN 2017 00:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,17 +365,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `pinina_bachelor_thesis.toc'.
 
  [2] [3]
-[4]
-Overfull \hbox (20.1706pt too wide) in paragraph at lines 120--141
+[4] [5]
+Overfull \hbox (20.1706pt too wide) in paragraph at lines 129--150
  [] 
  []
 
-[5] [6] (./pinina_bachelor_thesis.bbl) [7] (./pinina_bachelor_thesis.aux) ) 
+[6] [7] (./pinina_bachelor_thesis.bbl) [8] (./pinina_bachelor_thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 4309 strings out of 493014
- 57163 string characters out of 6133351
- 128164 words of memory out of 5000000
- 7739 multiletter control sequences out of 15000+600000
+ 4310 strings out of 493014
+ 57177 string characters out of 6133351
+ 128167 words of memory out of 5000000
+ 7740 multiletter control sequences out of 15000+600000
  19159 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,11n,32p,1656b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -393,10 +393,10 @@ e/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/
 16/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2016
 /texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on pinina_bachelor_thesis.pdf (7 pages, 153692 bytes).
+Output written on pinina_bachelor_thesis.pdf (8 pages, 157502 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
