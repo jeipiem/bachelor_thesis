@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  19 JUN 2017 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  21 JUN 2017 00:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,154 +545,186 @@ Package pdftex.def Info: Pic/mnln_phd.jpg used on input line 223.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./Pic/mnln_phases2.png>] [10 <./Pic/mnln_phd.jpg>]
-<Pic/br_lanyi.png, id=201, 381.425pt x 561.09625pt>
+[9 <./Pic/mnln_phases2.png>] [10 <./Pic/mnln_phd.jpg>] [11]
+<Pic/mscs.png, id=210, 743.77875pt x 380.42125pt>
+File: Pic/mscs.png Graphic file (type png)
+ <use Pic/mscs.png>
+Package pdftex.def Info: Pic/mscs.png used on input line 251.
+(pdftex.def)             Requested size: 409.71692pt x 209.56319pt.
+ [12 <./Pic/mscs.png>] <Pic/br_lanyi.png, id=225, 381.425pt x 561.09625pt>
 File: Pic/br_lanyi.png Graphic file (type png)
- <use Pic/br_lanyi.png>
-Package pdftex.def Info: Pic/br_lanyi.png used on input line 252.
+
+<use Pic/br_lanyi.png>
+Package pdftex.def Info: Pic/br_lanyi.png used on input line 275.
 (pdftex.def)             Requested size: 273.14923pt x 401.83147pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11] [12 <./Pic/br_lanyi.png>]
-<Pic/br_cycle2.png, id=230, 463.7325pt x 457.71pt>
+[13] <Pic/br_cycle2.png, id=249, 463.7325pt x 457.71pt>
 File: Pic/br_cycle2.png Graphic file (type png)
- <use Pic/br_cycle2.png>
-Package pdftex.def Info: Pic/br_cycle2.png used on input line 273.
+
+<use Pic/br_cycle2.png>
+Package pdftex.def Info: Pic/br_cycle2.png used on input line 296.
 (pdftex.def)             Requested size: 273.14923pt x 269.60657pt.
 
-[13 <./Pic/br_cycle2.png>] [14]
-<Pic/compare_lyr.png, id=259, 1337.99875pt x 539.01375pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./Pic/br_lanyi.png>] [15 <./Pic/br_cycle2.png>] [16]
+<Pic/compare_lyr.png, id=283, 1337.99875pt x 539.01375pt>
 File: Pic/compare_lyr.png Graphic file (type png)
 
 <use Pic/compare_lyr.png>
-Package pdftex.def Info: Pic/compare_lyr.png used on input line 317.
+Package pdftex.def Info: Pic/compare_lyr.png used on input line 342.
 (pdftex.def)             Requested size: 455.24411pt x 183.39383pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15] <Pic/POPC.png, id=271, 680.5425pt x 172.645pt>
+
+Overfull \hbox (2.61893pt too wide) in paragraph at lines 350--351
+\T2A/cmr/m/n/12 фосфатидилхолил (POPC) ([]Рис. 10[][]), 1,2-дифитаноил-\T2A/cmr
+/m/it/12 sn\T2A/cmr/m/n/12 -глицеро-3-фосфатидилхолил
+ []
+
+[17] <Pic/POPC.png, id=295, 680.5425pt x 172.645pt>
 File: Pic/POPC.png Graphic file (type png)
  <use Pic/POPC.png>
-Package pdftex.def Info: Pic/POPC.png used on input line 329.
+Package pdftex.def Info: Pic/POPC.png used on input line 354.
 (pdftex.def)             Requested size: 409.71692pt x 103.94078pt.
 
-<Pic/PHPC.png, id=272, 664.4825pt x 175.65625pt>
+<Pic/PHPC.png, id=296, 664.4825pt x 175.65625pt>
 File: Pic/PHPC.png Graphic file (type png)
  <use Pic/PHPC.png>
-Package pdftex.def Info: Pic/PHPC.png used on input line 338.
+Package pdftex.def Info: Pic/PHPC.png used on input line 363.
 (pdftex.def)             Requested size: 409.71692pt x 108.31071pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <./Pic/compare_lyr.png> <./Pic/POPC.png>]
-<Pic/DOPC.png, id=284, 714.67pt x 172.645pt>
+[18 <./Pic/compare_lyr.png> <./Pic/POPC.png>]
+<Pic/DOPC.png, id=308, 714.67pt x 172.645pt>
 File: Pic/DOPC.png Graphic file (type png)
  <use Pic/DOPC.png>
-Package pdftex.def Info: Pic/DOPC.png used on input line 348.
+Package pdftex.def Info: Pic/DOPC.png used on input line 373.
 (pdftex.def)             Requested size: 409.71692pt x 98.97768pt.
 
-Overfull \hbox (1.87785pt too wide) in paragraph at lines 362--362
+Overfull \hbox (1.87785pt too wide) in paragraph at lines 387--387
 []|\T2A/cmr/m/n/12 Название 
  []
 
 
-Overfull \hbox (1.094pt too wide) in paragraph at lines 362--362
+Overfull \hbox (1.094pt too wide) in paragraph at lines 387--387
 []|\T2A/cmr/m/n/12 Липид|  
  []
 
 
-Overfull \hbox (7.66548pt too wide) in paragraph at lines 360--370
+Overfull \hbox (7.66548pt too wide) in paragraph at lines 385--395
  [] 
  []
 
-[17 <./Pic/PHPC.png> <./Pic/DOPC.png>]
-Overfull \hbox (1.92426pt too wide) in paragraph at lines 382--383
+[19 <./Pic/PHPC.png> <./Pic/DOPC.png>]
+Overfull \hbox (1.92426pt too wide) in paragraph at lines 407--408
 []\T2A/cmr/m/n/12 Импользовались пе-ри-о-дич-ные во всех на-прав-ле-ни-ях гра-н
 ич-ные усло-вия, что озна-
  []
 
 
-Overfull \hbox (8.25064pt too wide) in paragraph at lines 384--385
+Overfull \hbox (8.25064pt too wide) in paragraph at lines 409--410
 []\T2A/cmr/m/n/12 Расчет про-во-дил-ся в ан-сам-бле \T2A/cmr/m/it/12 NPT\T2A/cm
 r/m/n/12 , т.е. по-сто-ян-ны-ми со-хра-ня-лись чис-ло [],
  []
 
 
-Overfull \hbox (5.88715pt too wide) in paragraph at lines 387--389
+Overfull \hbox (5.88715pt too wide) in paragraph at lines 412--414
 \T2A/cmr/m/n/12 Функция тер-мо-ста-та за-клю-ча-ет-ся в под-дер-жа-нии по-сто-я
 н-ной сред-ней [],
  []
 
-[18]
-Overfull \hbox (1.59796pt too wide) in paragraph at lines 398--399
+[20]
+Overfull \hbox (1.59796pt too wide) in paragraph at lines 423--424
 []\T2A/cmr/m/n/12 Кроме то-го, до-пол-ни-тель-но га-сит-ся транс-ля-ци-он-ное д
 ви-же-ние цен-тров масс групп
  []
 
-[19]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 408
+[21]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 433
 .
  (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-[20] [21] (./pinina_bachelor_thesis.bbl (./pinina_bachelor_thesis.brf)
+[22] [23] (./pinina_bachelor_thesis.bbl (./pinina_bachelor_thesis.brf)
 \tf@brf=\write5
 \openout5 = `pinina_bachelor_thesis.brf'.
 
- [22]
-Underfull \hbox (badness 1264) in paragraph at lines 124--124
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\T2A/cmr/m/n/12 Biochemistry / M. K. Joshi, S. Dracheva, A. K. Mukhopadhyay,
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 106--106
+\T2A/cmr/m/n/12 S. Bose // Importance of specificnative lipids in controlling t
+he photocycle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T2A/cmr/m/n/12 Marsh D. Electron spin resonance in membrane research: protei
+n--lipid
+ []
+
+[24]
+Underfull \hbox (badness 1264) in paragraph at lines 157--157
 []\T2A/cmr/m/n/12 Integral Membrane Proteins Can Be Crystallized Directly from 
 Nanodiscs /
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 141--141
+Underfull \hbox (badness 2790) in paragraph at lines 174--174
 []\T2A/cmr/m/n/12 High-speed atomic force microscopy shows dynamic molecular pr
 ocesses in
  []
 
-[23]
-Underfull \hbox (badness 6364) in paragraph at lines 242--242
+[25]
+Underfull \hbox (badness 6364) in paragraph at lines 283--283
 []\T2A/cmr/m/n/12 CHARMM-GUI Membrane Builder Toward Realistic Biological Membr
 ane
  []
 
-
-Underfull \hbox (badness 6063) in paragraph at lines 260--260
+[26]
+Underfull \hbox (badness 6063) in paragraph at lines 301--301
 []\T2A/cmr/m/n/12 Comparison of simple potential functions for simulating liqui
 d water /
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 268--268
+Underfull \hbox (badness 1178) in paragraph at lines 309--309
 []\T2A/cmr/m/n/12 Molecular dynamics with coupling to an external bath / H.J.C.
  Berendsen,
  []
 
-[24])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 428.
- [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 428.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
+ [27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
  (./pinina_bachelor_thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 428.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 428.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
 Package rerunfilecheck Info: File `pinina_bachelor_thesis.out' has not changed.
 
 (rerunfilecheck)             Checksum: B8EF13AD2D10DB2884AD1B3594EFD329;3135.
 Package rerunfilecheck Info: File `pinina_bachelor_thesis.brf' has not changed.
 
-(rerunfilecheck)             Checksum: B54AC425661E818FCFF9F294E95404B2;1403.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 428.
+(rerunfilecheck)             Checksum: B85734231177B08D53D7DB34990BAF19;1651.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
  ) 
 Here is how much of TeX's memory you used:
- 13439 strings out of 493014
- 183550 string characters out of 6133351
- 265423 words of memory out of 5000000
- 16723 multiletter control sequences out of 15000+600000
+ 13473 strings out of 493014
+ 183843 string characters out of 6133351
+ 265689 words of memory out of 5000000
+ 16748 multiletter control sequences out of 15000+600000
  20649 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  32i,12n,35p,4247b,1125s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -715,10 +747,10 @@ exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/texmf
 -dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texmf-d
 ist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on pinina_bachelor_thesis.pdf (25 pages, 2701627 bytes).
+Output written on pinina_bachelor_thesis.pdf (27 pages, 3728394 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
- 90 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 498 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
