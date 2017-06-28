@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 JUN 2017 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 JUN 2017 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,6 +320,26 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip47
 \backup@length=\skip48
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen130
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen131
+\subfiglabelskip=\skip52
+\c@subfigure=\count114
+\c@lofdepth=\count115
+\c@subtable=\count116
+\c@lotdepth=\count117
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -338,23 +358,23 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count114
+\lst@mode=\count118
 \lst@gtempboxa=\box28
 \lst@token=\toks24
-\lst@length=\count115
-\lst@currlwidth=\dimen130
-\lst@column=\count116
-\lst@pos=\count117
-\lst@lostspace=\dimen131
-\lst@width=\dimen132
-\lst@newlines=\count118
-\lst@lineno=\count119
-\lst@maxwidth=\dimen133
+\lst@length=\count119
+\lst@currlwidth=\dimen132
+\lst@column=\count120
+\lst@pos=\count121
+\lst@lostspace=\dimen133
+\lst@width=\dimen134
+\lst@newlines=\count122
+\lst@lineno=\count123
+\lst@maxwidth=\dimen135
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count120
-\lst@skipnumbers=\count121
+\c@lstnumber=\count124
+\lst@skipnumbers=\count125
 \lst@framebox=\box29
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
@@ -362,44 +382,49 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(./pinina_bachelor_thesis.aux
-
-LaTeX Warning: Label `fig:comp_lyr' multiply defined.
-
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen136
+\WF@size=\dimen137
+\c@WF@wrappedlines=\count126
+\WF@box=\box30
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
 )
+(./pinina_bachelor_thesis.aux)
 \openout1 = `pinina_bachelor_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-\AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 66.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+\AtBeginShipoutBox=\box31
+Package hyperref Info: Link coloring OFF on input line 68.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count122
+\c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
-LaTeX Info: Redefining \nameref on input line 66.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
 
 (./pinina_bachelor_thesis.out) (./pinina_bachelor_thesis.out)
 \@outlinefile=\write3
@@ -442,17 +467,17 @@ LaTeX Info: Redefining \nameref on input line 66.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen134
-\scratchbox=\box31
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen135
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count128
+\scratchdimen=\dimen138
+\scratchbox=\box32
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen139
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -468,7 +493,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count129
+\c@lstlisting=\count134
 
 [1
 
@@ -510,192 +535,326 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `pinina_bachelor_thesis.toc'.
 
  [2] [3]
-<Pic/mp.png, id=147, 1242.6425pt x 612.2875pt>
+<Pic/mp.png, id=153, 1242.6425pt x 612.2875pt>
 File: Pic/mp.png Graphic file (type png)
  <use Pic/mp.png>
-Package pdftex.def Info: Pic/mp.png used on input line 144.
+Package pdftex.def Info: Pic/mp.png used on input line 146.
 (pdftex.def)             Requested size: 409.71692pt x 201.87799pt.
- [4 <./Pic/mp.png>] [5] [6] <Pic/lipids.png, id=181, 410.53375pt x 457.71pt>
+ [4 <./Pic/mp.png>] [5] [6] <Pic/lipids.png, id=187, 410.53375pt x 457.71pt>
 File: Pic/lipids.png Graphic file (type png)
 
 <use Pic/lipids.png>
-Package pdftex.def Info: Pic/lipids.png used on input line 187.
+Package pdftex.def Info: Pic/lipids.png used on input line 189.
 (pdftex.def)             Requested size: 364.19667pt x 406.04762pt.
  [7 <./Pic/lipids.png>]
-<Pic/mnln2.png, id=192, 465.99434pt x 232.50665pt>
+<Pic/mnln2.png, id=198, 465.99434pt x 232.50665pt>
 File: Pic/mnln2.png Graphic file (type png)
  <use Pic/mnln2.png>
-Package pdftex.def Info: Pic/mnln2.png used on input line 197.
+Package pdftex.def Info: Pic/mnln2.png used on input line 199.
 (pdftex.def)             Requested size: 318.66948pt x 159.0071pt.
 
-<Pic/mnln_phases2.png, id=195, 842.14626pt x 430.60875pt>
+<Pic/mnln_phases2.png, id=201, 842.14626pt x 430.60875pt>
 File: Pic/mnln_phases2.png Graphic file (type png)
 
 <use Pic/mnln_phases2.png>
-Package pdftex.def Info: Pic/mnln_phases2.png used on input line 212.
+Package pdftex.def Info: Pic/mnln_phases2.png used on input line 214.
 (pdftex.def)             Requested size: 409.71692pt x 209.50203pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./Pic/mnln2.png>] <Pic/mnln_phd.jpg, id=207, 652.4375pt x 483.8075pt>
+[8 <./Pic/mnln2.png>] <Pic/mnln_phd.jpg, id=213, 652.4375pt x 483.8075pt>
 File: Pic/mnln_phd.jpg Graphic file (type jpg)
 
 <use Pic/mnln_phd.jpg>
-Package pdftex.def Info: Pic/mnln_phd.jpg used on input line 223.
+Package pdftex.def Info: Pic/mnln_phd.jpg used on input line 225.
 (pdftex.def)             Requested size: 409.71692pt x 303.83325pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./Pic/mnln_phases2.png>] [10 <./Pic/mnln_phd.jpg>] [11]
-<Pic/mscs.png, id=234, 743.77875pt x 380.42125pt>
+<Pic/mscs.png, id=240, 743.77875pt x 380.42125pt>
 File: Pic/mscs.png Graphic file (type png)
  <use Pic/mscs.png>
-Package pdftex.def Info: Pic/mscs.png used on input line 251.
+Package pdftex.def Info: Pic/mscs.png used on input line 253.
 (pdftex.def)             Requested size: 409.71692pt x 209.56319pt.
- [12 <./Pic/mscs.png>] <Pic/aq_den.png, id=250, 573.14125pt x 512.91624pt>
+ [12 <./Pic/mscs.png>] <Pic/aq_den.png, id=256, 573.14125pt x 512.91624pt>
 File: Pic/aq_den.png Graphic file (type png)
 
 <use Pic/aq_den.png>
-Package pdftex.def Info: Pic/aq_den.png used on input line 270.
+Package pdftex.def Info: Pic/aq_den.png used on input line 272.
 (pdftex.def)             Requested size: 204.85846pt x 183.33485pt.
 
-Underfull \hbox (badness 3838) in paragraph at lines 271--271
+Underfull \hbox (badness 3838) in paragraph at lines 273--273
 []\T2A/cmr/m/n/12 Рис. 7: [] [[][]15[]] Плот-но-сти ли-пи-дов
  []
 
-<Pic/aq_com.png, id=253, 387.4475pt x 365.365pt>
+<Pic/aq_com.png, id=259, 387.4475pt x 365.365pt>
 File: Pic/aq_com.png Graphic file (type png)
  <use Pic/aq_com.png>
-Package pdftex.def Info: Pic/aq_com.png used on input line 276.
+Package pdftex.def Info: Pic/aq_com.png used on input line 278.
 (pdftex.def)             Requested size: 182.09486pt x 171.71599pt.
 
-<Pic/serca_exp.png, id=256, 637.38126pt x 589.20125pt>
+<Pic/serca_exp.png, id=262, 637.38126pt x 589.20125pt>
 File: Pic/serca_exp.png Graphic file (type png)
  <use Pic/serca_exp.png>
-Package pdftex.def Info: Pic/serca_exp.png used on input line 285.
+Package pdftex.def Info: Pic/serca_exp.png used on input line 287.
 (pdftex.def)             Requested size: 409.71692pt x 378.74174pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [13 <./Pic/aq_den.png> <./Pic/aq_com.png>]
-<Pic/serca_3.png, id=275, 540.0175pt x 550.055pt>
+<Pic/serca_3.png, id=281, 540.0175pt x 550.055pt>
 File: Pic/serca_3.png Graphic file (type png)
  <use Pic/serca_3.png>
-Package pdftex.def Info: Pic/serca_3.png used on input line 295.
+Package pdftex.def Info: Pic/serca_3.png used on input line 297.
 (pdftex.def)             Requested size: 336.88313pt x 343.15404pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [14 <./Pic/serca_exp.png>] [15 <./Pic/serca_3.png>]
-<Pic/br_lanyi.png, id=291, 381.425pt x 561.09625pt>
+<Pic/br_lanyi.png, id=297, 381.425pt x 561.09625pt>
 File: Pic/br_lanyi.png Graphic file (type png)
  <use Pic/br_lanyi.png>
-Package pdftex.def Info: Pic/br_lanyi.png used on input line 310.
+Package pdftex.def Info: Pic/br_lanyi.png used on input line 312.
 (pdftex.def)             Requested size: 273.14923pt x 401.83147pt.
 
-[16 <./Pic/br_lanyi.png>] <Pic/br_cycle2.png, id=308, 463.7325pt x 457.71pt>
+[16 <./Pic/br_lanyi.png>] <Pic/br_cycle2.png, id=314, 463.7325pt x 457.71pt>
 File: Pic/br_cycle2.png Graphic file (type png)
 
 <use Pic/br_cycle2.png>
-Package pdftex.def Info: Pic/br_cycle2.png used on input line 328.
+Package pdftex.def Info: Pic/br_cycle2.png used on input line 330.
 (pdftex.def)             Requested size: 273.14923pt x 269.60657pt.
  [17 <./Pic/br_cycle2.png>] [18] [19] [20]
-<Pic/POPC.png, id=362, 680.5425pt x 172.645pt>
+<Pic/POPC.png, id=368, 680.5425pt x 172.645pt>
 File: Pic/POPC.png Graphic file (type png)
  <use Pic/POPC.png>
-Package pdftex.def Info: Pic/POPC.png used on input line 392.
+Package pdftex.def Info: Pic/POPC.png used on input line 394.
 (pdftex.def)             Requested size: 409.71692pt x 103.94078pt.
 
-<Pic/PHPC.png, id=363, 664.4825pt x 175.65625pt>
+<Pic/PHPC.png, id=369, 664.4825pt x 175.65625pt>
 File: Pic/PHPC.png Graphic file (type png)
  <use Pic/PHPC.png>
-Package pdftex.def Info: Pic/PHPC.png used on input line 401.
+Package pdftex.def Info: Pic/PHPC.png used on input line 403.
 (pdftex.def)             Requested size: 409.71692pt x 108.31071pt.
- [21 <./Pic/POPC.png> <./Pic/PHPC.png>] <Pic/DOPC.png, id=379, 714.67pt x 172.6
+ [21 <./Pic/POPC.png> <./Pic/PHPC.png>] <Pic/DOPC.png, id=385, 714.67pt x 172.6
 45pt>
 File: Pic/DOPC.png Graphic file (type png)
 
 <use Pic/DOPC.png>
-Package pdftex.def Info: Pic/DOPC.png used on input line 411.
+Package pdftex.def Info: Pic/DOPC.png used on input line 413.
 (pdftex.def)             Requested size: 409.71692pt x 98.97768pt.
  [22 <./Pic/DOPC.png>]
-Overfull \hbox (8.25064pt too wide) in paragraph at lines 429--430
+Overfull \hbox (8.25064pt too wide) in paragraph at lines 431--432
 []\T2A/cmr/m/n/12 Расчет про-во-дил-ся в ан-сам-бле \T2A/cmr/m/it/12 NPT\T2A/cm
 r/m/n/12 , т.е. по-сто-ян-ны-ми со-хра-ня-лись чис-ло [],
  []
 
 
-Overfull \hbox (5.88715pt too wide) in paragraph at lines 432--434
+Overfull \hbox (5.88715pt too wide) in paragraph at lines 434--436
 \T2A/cmr/m/n/12 Функция тер-мо-ста-та за-клю-ча-ет-ся в под-дер-жа-нии по-сто-я
 н-ной сред-ней [],
  []
 
 [23]
-Overfull \hbox (1.59796pt too wide) in paragraph at lines 447--448
+Overfull \hbox (1.59796pt too wide) in paragraph at lines 449--450
 []\T2A/cmr/m/n/12 Кроме то-го, до-пол-ни-тель-но га-сит-ся транс-ля-ци-он-ное д
 ви-же-ние цен-тров масс групп
  []
 
 
-Overfull \hbox (17.2427pt too wide) in paragraph at lines 454--455
+Overfull \hbox (17.2427pt too wide) in paragraph at lines 456--457
 []\T2A/cmr/m/n/12 Вторая часть вклю-ча-ет мо-де-ли-ро-ва-ния в бис-ло-ях из DPh
 PC, POPE (1-пальмитоил-
  []
 
 
-Overfull \hbox (5.80847pt too wide) in paragraph at lines 454--455
+Overfull \hbox (5.80847pt too wide) in paragraph at lines 456--457
 \T2A/cmr/m/n/12 2-олеоил-\T2A/cmr/m/it/12 sn\T2A/cmr/m/n/12 -глицеро-3-фосфатид
 илэтаноламин), POPG (1-пальмитоил-2-олеоил-
  []
 
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 463
+[24]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 465
 .
-(/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [24]
+)
 [25]
-Overfull \hbox (1.87785pt too wide) in paragraph at lines 488--488
+Overfull \hbox (1.87785pt too wide) in paragraph at lines 495--495
 []|\T2A/cmr/m/n/12 Название 
  []
 
 
-Overfull \hbox (1.094pt too wide) in paragraph at lines 488--488
+Overfull \hbox (1.094pt too wide) in paragraph at lines 495--495
 []|\T2A/cmr/m/n/12 Липид|  
  []
 
 
-Overfull \hbox (7.66548pt too wide) in paragraph at lines 486--496
- [] 
+Overfull \hbox (2.4591pt too wide) in paragraph at lines 495--495
+[]|$\OML/cmm/m/it/12 N[]$|  
  []
 
-<Pic/compare_lyr.png, id=423, 1337.99875pt x 539.01375pt>
+<Pic/compare_lyr.png, id=435, 1337.99875pt x 539.01375pt>
 File: Pic/compare_lyr.png Graphic file (type png)
 
 <use Pic/compare_lyr.png>
-Package pdftex.def Info: Pic/compare_lyr.png used on input line 507.
-(pdftex.def)             Requested size: 455.24411pt x 183.39383pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Pic/4000_4010_3.png, id=424, 1204.5pt x 702.625pt>
+Package pdftex.def Info: Pic/compare_lyr.png used on input line 519.
+(pdftex.def)             Requested size: 273.14923pt x 110.03795pt.
+ [26]
+<Pic/4000_4010_3.png, id=443, 1204.5pt x 702.625pt>
 File: Pic/4000_4010_3.png Graphic file (type png)
  <use Pic/4000_4010_3.png>
-Package pdftex.def Info: Pic/4000_4010_3.png used on input line 515.
+Package pdftex.def Info: Pic/4000_4010_3.png used on input line 527.
 (pdftex.def)             Requested size: 455.24411pt x 265.56363pt.
+
+<Pic/001.png, id=444, 642.4pt x 579.16376pt>
+File: Pic/001.png Graphic file (type png)
+ <use Pic/001.png>
+Package pdftex.def Info: Pic/001.png used on input line 534.
+(pdftex.def)             Requested size: 273.14923pt x 246.26947pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26] (./pinina_bachelor_thesis.bbl (./pinina_bachelor_thesis.brf)
+
+Overfull \hbox (7.786pt too wide) in paragraph at lines 539--540
+[]\T2A/cmr/m/n/12 Это ил-лю-стру-ет сред-не-квад-ра-тич-ное от-кло-не-ние (RMSD
+) осто-вов бел-ка ([]рис. 17[][]),
+ []
+
+
+Overfull \hbox (5.34755pt too wide) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 альфа-спиралей про-ис-хо-дит на по-ло-вине вре-ме-ни мо-де-ли-р
+о-ва-ния, а для []
+ []
+
+[27 <./Pic/compare_lyr.png> <./Pic/4000_4010_3.png>]
+<Pic/003.png, id=455, 411.5375pt x 387.4475pt>
+File: Pic/003.png Graphic file (type png)
+ <use Pic/003.png>
+Package pdftex.def Info: Pic/003.png used on input line 543.
+(pdftex.def)             Requested size: 111.53606pt x 105.00832pt.
+
+<Pic/004.png, id=456, 417.56pt x 427.5975pt>
+File: Pic/004.png Graphic file (type png)
+ <use Pic/004.png>
+Package pdftex.def Info: Pic/004.png used on input line 547.
+(pdftex.def)             Requested size: 111.53606pt x 114.21318pt.
+ [28 <./Pic/001.png> <./Pic/003.png> <./Pic/004.png>]
+<Pic/rmsd.png, id=468, 1204.5pt x 702.625pt>
+File: Pic/rmsd.png Graphic file (type png)
+ <use Pic/rmsd.png>
+Package pdftex.def Info: Pic/rmsd.png used on input line 569.
+(pdftex.def)             Requested size: 455.24411pt x 265.56363pt.
+
+<Pic/density_profile2_4100_POPC.png, id=469, 1204.5pt x 702.625pt>
+File: Pic/density_profile2_4100_POPC.png Graphic file (type png)
+
+<use Pic/density_profile2_4100_POPC.png>
+Package pdftex.def Info: Pic/density_profile2_4100_POPC.png used on input line 
+578.
+(pdftex.def)             Requested size: 273.14923pt x 159.33818pt.
+
+<Pic/density_profile2_4110_PHPC.png, id=470, 1204.5pt x 702.625pt>
+File: Pic/density_profile2_4110_PHPC.png Graphic file (type png)
+
+<use Pic/density_profile2_4110_PHPC.png>
+Package pdftex.def Info: Pic/density_profile2_4110_PHPC.png used on input line 
+582.
+(pdftex.def)             Requested size: 273.14923pt x 159.33818pt.
+
+<Pic/density_profile2_4120_MNLN.png, id=471, 1204.5pt x 702.625pt>
+File: Pic/density_profile2_4120_MNLN.png Graphic file (type png)
+
+<use Pic/density_profile2_4120_MNLN.png>
+Package pdftex.def Info: Pic/density_profile2_4120_MNLN.png used on input line 
+586.
+(pdftex.def)             Requested size: 273.14923pt x 159.33818pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29 <./Pic/rmsd.png>] [30 <./Pic/density_profile2_4100_POPC.png> <./Pic/density
+_profile2_4110_PHPC.png> <./Pic/density_profile2_4120_MNLN.png>]
+<Pic/apl_POPC.png, id=488, 669.50125pt x 595.22375pt>
+File: Pic/apl_POPC.png Graphic file (type png)
+ <use Pic/apl_POPC.png>
+Package pdftex.def Info: Pic/apl_POPC.png used on input line 598.
+(pdftex.def)             Requested size: 204.85846pt x 182.12878pt.
+
+<Pic/traj_PHPC.png, id=490, 635.37375pt x 523.9575pt>
+File: Pic/traj_PHPC.png Graphic file (type png)
+ <use Pic/traj_PHPC.png>
+Package pdftex.def Info: Pic/traj_PHPC.png used on input line 616.
+(pdftex.def)             Requested size: 209.41534pt x 172.69064pt.
+
+<Pic/traj_MNLN.png, id=491, 562.1pt x 661.47125pt>
+File: Pic/traj_MNLN.png Graphic file (type png)
+ <use Pic/traj_MNLN.png>
+Package pdftex.def Info: Pic/traj_MNLN.png used on input line 620.
+(pdftex.def)             Requested size: 209.41534pt x 246.43619pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Pic/dens_inner.jpg, id=493, 1204.5pt x 1405.25pt>
+File: Pic/dens_inner.jpg Graphic file (type jpg)
+ <use Pic/dens_inner.jpg>
+Package pdftex.def Info: Pic/dens_inner.jpg used on input line 633.
+(pdftex.def)             Requested size: 191.20169pt x 223.06488pt.
+
+<Pic/dens_outer.jpg, id=494, 1204.5pt x 1405.25pt>
+File: Pic/dens_outer.jpg Graphic file (type jpg)
+ <use Pic/dens_outer.jpg>
+Package pdftex.def Info: Pic/dens_outer.jpg used on input line 637.
+(pdftex.def)             Requested size: 191.20169pt x 223.06488pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (1.9243pt too wide) in paragraph at lines 644--645
+[]\T2A/cmr/m/n/12 Далее бы-ли по-лу-че-ны трех-мер-ные плот-но-сти ли-пи-дов, в
+и-зу-а-ли-зи-ро-ван-ные в плос-
+ []
+
+
+Overfull \hbox (1.92299pt too wide) in paragraph at lines 646--648
+[]\T2A/cmr/m/n/12 На []рис. 24[][] пред-став-ле-на трех-мер-ная ви-зу-а-ли-за-ц
+ия усред-нен-ных по вре-ме-ни плост-
+ []
+
+[31 <./Pic/apl_POPC.png>]
+
+LaTeX Warning: Text page 32 contains only floats.
+
+
+Overfull \vbox (3.26596pt too high) has occurred while \output is active []
+
+
+[32 <./Pic/traj_PHPC.png> <./Pic/traj_MNLN.png> <./Pic/dens_inner.jpg> <./Pic/d
+ens_outer.jpg>] <Pic/26_PHPC.png, id=511, 578.16pt x 433.62pt>
+File: Pic/26_PHPC.png Graphic file (type png)
+
+<use Pic/26_PHPC.png>
+Package pdftex.def Info: Pic/26_PHPC.png used on input line 653.
+(pdftex.def)             Requested size: 209.41534pt x 157.05585pt.
+ <Pic/33_PHPC.png, id=512, 578.16pt x 433.62pt>
+File: Pic/33_PHPC.png Graphic file (type png)
+
+<use Pic/33_PHPC.png>
+Package pdftex.def Info: Pic/33_PHPC.png used on input line 655.
+(pdftex.def)             Requested size: 209.41534pt x 157.05585pt.
+ [33 <./Pic/26_PHPC.png> <./Pic/33_PHPC.png>] [34]
+(./pinina_bachelor_thesis.bbl (./pinina_bachelor_thesis.brf)
 \tf@brf=\write5
 \openout5 = `pinina_bachelor_thesis.brf'.
 
- [27 <./Pic/compare_lyr.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 106--106
 []\T2A/cmr/m/n/12 Biochemistry / M. K. Joshi, S. Dracheva, A. K. Mukhopadhyay,
  []
@@ -712,7 +871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 n--lipid
  []
 
-[28 <./Pic/4000_4010_3.png>]
+[35]
 Underfull \hbox (badness 1264) in paragraph at lines 183--183
 []\T2A/cmr/m/n/12 Integral Membrane Proteins Can Be Crystallized Directly from 
 Nanodiscs /
@@ -724,7 +883,7 @@ Underfull \hbox (badness 2790) in paragraph at lines 200--200
 ocesses in
  []
 
-[29] [30]
+[36] [37]
 Underfull \hbox (badness 6364) in paragraph at lines 309--309
 []\T2A/cmr/m/n/12 CHARMM-GUI Membrane Builder Toward Realistic Biological Membr
 ane
@@ -737,38 +896,34 @@ d water /
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 335--335
+Underfull \hbox (badness 1178) in paragraph at lines 344--344
 []\T2A/cmr/m/n/12 Molecular dynamics with coupling to an external bath / H.J.C.
  Berendsen,
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 531.
- [31]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 531.
+[38])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 669.
+ [39]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 669.
  (./pinina_bachelor_thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 531.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 531.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 669.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 669.
 Package rerunfilecheck Info: File `pinina_bachelor_thesis.out' has not changed.
 
-(rerunfilecheck)             Checksum: 7B8351018AE922FA9838C8125A8DA320;4596.
+(rerunfilecheck)             Checksum: 075961E41FB47ACB76B8D48D5C020E27;4584.
 Package rerunfilecheck Info: File `pinina_bachelor_thesis.brf' has not changed.
 
-(rerunfilecheck)             Checksum: 0FBCA7696F692D9C49E9CD41AFD18967;2041.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 531.
+(rerunfilecheck)             Checksum: ECC7818A081C4B13BD643DA98B76E01E;2214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 669.
  ) 
 Here is how much of TeX's memory you used:
- 13542 strings out of 493014
- 184720 string characters out of 6133351
- 265579 words of memory out of 5000000
- 16793 multiletter control sequences out of 15000+600000
- 20649 words of font info for 54 fonts, out of 8000000 for 9000
+ 13884 strings out of 493014
+ 189890 string characters out of 6133351
+ 272776 words of memory out of 5000000
+ 17087 multiletter control sequences out of 15000+600000
+ 21446 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,12n,35p,4233b,1125s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,13n,35p,4233b,1123s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -785,14 +940,15 @@ ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on pinina_bachelor_thesis.pdf (31 pages, 8060992 bytes).
+xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on pinina_bachelor_thesis.pdf (39 pages, 12389706 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 500 compressed objects within 5 object streams
- 117 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 707 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
 
